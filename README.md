@@ -4,7 +4,7 @@
 
 ## Description
 
-This is the front-end client for a three-part blog application created as a project for [The Odin Project](https://www.theodinproject.com/paths/full-stack-javascript/courses/nodejs/lessons/blog-api). The other two parts of the application are the (Blog API) [https://github.com/IlyaEru/blog-api] and the (Blog CMS) [https://github.com/IlyaEru/blog-cms].
+This is the front-end client for a three-part blog application created as a project for [The Odin Project](https://www.theodinproject.com/paths/full-stack-javascript/courses/nodejs/lessons/blog-api). The other two parts of the application are the [Blog API] (https://github.com/IlyaEru/blog-api) and the [Blog CMS] (https://github.com/IlyaEru/blog-cms).
 
 ## Technology
 
