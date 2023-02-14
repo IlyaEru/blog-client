@@ -14,7 +14,6 @@ import {
 
 export default function PostView(props: PostDocument) {
   const { _id: postID, title, body, published, createdAt, comments } = props;
-  console.log({ props });
 
   return (
     <StyledPostViewContainer>
